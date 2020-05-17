@@ -1,0 +1,33 @@
+.body {
+    margin: auto;
+}
+
+.upperleft {
+    background-color: blue;
+}
+
+.center {
+    margin: 0 auto;
+    max-width: 600px;
+    align-content: center;
+    position: relative;
+    text-align: center;
+}
+
+.box {
+    border: 1px solid black;
+}
+
+button {
+    position: relative;
+}
+
+
+li {
+    display: inline-block;
+}
+
+grid {
+    width: 400px;
+    height: 400px;
+}
