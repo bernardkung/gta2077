@@ -1,5 +1,8 @@
-.body {
+body {
     margin: auto;
+    height: 100%;
+    background: no-repeat url("static/imgs/cyberpunk2077.jpeg") center ;
+    color: #f6faff;
 }
 
 .upperleft {
